@@ -2,7 +2,7 @@
 
 Mancala AI
 
-This was a project for my class CS32 to code the game Mancala from the ground up in C++ and make an AI that could choose optimal moves within a 10 second time restriction, 
+This was a project to code the game Mancala from the ground up in C++ and make an AI that could choose optimal moves within a 10 second time restriction, 
 I implemented this using a minimax algorithm and game tree to evaluate future positions and find the best outcome
 
 # Game Implementation:
